@@ -1,4 +1,4 @@
-emote: Agh!=PP15-08
+emote: Agh=PP15-08
 hash: 3810fdef
 
 emote: Challenge=PP15-06

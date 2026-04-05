@@ -16,5 +16,5 @@ hash: bffdd5a6
 emote: Pensive=PP11-10
 hash: c36a32ea
 
-emote: What_Happened?=PP04-03
+emote: What_Happened=PP04-03
 hash: ffd16e07
