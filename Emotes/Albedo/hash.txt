@@ -1,0 +1,20 @@
+emote: Cold=PP04-04
+hash: a575ed8d
+
+emote: Evil_Laugh=PP11-09
+hash: 4f00986c
+
+emote: Have_Some_Flowers=PP04-01
+hash: 1755a09e
+
+emote: It_was_nothing=PP04-02
+hash: bb5f71fd
+
+emote: Leave_it_to_Me=PP11-11
+hash: bffdd5a6
+
+emote: Pensive=PP11-10
+hash: c36a32ea
+
+emote: What_Happened?=PP04-03
+hash: ffd16e07
