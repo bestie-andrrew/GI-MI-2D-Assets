@@ -1,0 +1,26 @@
+emote: Agh!=PP15-08
+hash: 3810fdef
+
+emote: Challenge=PP15-06
+hash: 4cd5cc1e
+
+emote: Eating_Sweets=PP11-04
+hash: fe3b03cd
+
+emote: Hearty_Laughter=PP11-02
+hash: 8239632c
+
+emote: Lend_a_Hand=PP15-07
+hash: 94f8296d
+
+emote: Perplexed=PP11-03
+hash: 141991c4
+
+emote: Pleased=PP15-05
+hash: 5fa31076
+
+emote: Taunt_XS=PP11-ICON
+hash: 4f3cc7da
+
+emote: Taunt=PP11-01
+hash: 0ff988b7
