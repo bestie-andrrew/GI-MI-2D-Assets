@@ -1,0 +1,14 @@
+emote: Concerned=PP23-01
+hash: 3480b9f7
+
+emote: Gloom=PP23-02
+hash: 00f42ae3
+
+emote: Taking_Medicine_XS=PP23-ICON
+hash: 4303ee26
+
+emote: Taking_Medicine=PP23-04
+hash: b2b08aff
+
+emote: Vomiting_Blood=PP23-03
+hash: e7a2ca38

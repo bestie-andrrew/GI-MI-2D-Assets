@@ -1,0 +1,11 @@
+emote: Are_you_alright=PP07-09
+hash: 4ff23830
+
+emote: Panicked=PP07-12
+hash: 99f0d572
+
+emote: Shhh=PP07-11
+hash: 5c0bad20
+
+emote: Shy=PP07-10
+hash: aa8935e6
