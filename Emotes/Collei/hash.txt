@@ -1,0 +1,23 @@
+emote: Alert=PP17-08
+hash: 1267b305
+
+emote: Embarassed=PP17-06
+hash: 21f3207d
+
+emote: I_can_do_It=PP25-05
+hash: 6a09a013
+
+emote: Lesson_Time=PP17-07
+hash: f6256909
+
+emote: Lucky=PP20-16
+hash: 4e610983
+
+emote: No_Response=PP22-13
+hash: 8f92b1d9
+
+emote: Stretch=PP22-14
+hash: 8e3571b6
+
+emote: Yearning=PP17-05
+hash: dde0962a

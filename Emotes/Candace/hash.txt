@@ -1,0 +1,11 @@
+emote: Happy_Birthday=PP18-10
+hash: 297e5648
+
+emote: Ill_Protect_You=PP18-09
+hash: ca0b43c9
+
+emote: Praying=PP18-12
+hash: 1a8b4e55
+
+emote: Thanks=PP18-11
+hash: 205d4cdc

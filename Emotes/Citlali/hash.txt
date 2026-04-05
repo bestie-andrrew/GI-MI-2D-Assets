@@ -1,0 +1,5 @@
+emote: Annoyed=PP38-08
+hash: 7fd18cdb
+
+emote: Refuse_to_Face_XS=PP38-ICON
+hash: 50c95f35

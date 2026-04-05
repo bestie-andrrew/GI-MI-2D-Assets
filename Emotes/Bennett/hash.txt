@@ -1,0 +1,2 @@
+emotes: Confident=PP20-13
+hash: a1329305

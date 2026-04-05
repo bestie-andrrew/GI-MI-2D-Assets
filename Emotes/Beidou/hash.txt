@@ -1,0 +1,5 @@
+emote: Bye=PP08-16
+hash: 64c6ea65
+
+emote: Hearty_Laughter=PP08-15
+hash: 4b760b7c
