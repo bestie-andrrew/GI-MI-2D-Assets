@@ -1,1 +1,2 @@
-emote: Shh!=
+emote: Shh=PP32-01
+hash: 5175cf64
