@@ -1,0 +1,14 @@
+emote: Got_It=PP22-01
+hash: 1710cf5b
+
+emote: Have_Some_Flowers=PP22-04
+hash: fe3d3e89
+
+emote: Nervous=PP22-02
+hash: 81327c10
+
+emote: Take_This_XS=PP22-ICON
+hash: b6f615c5
+
+emote: Take_This=PP22-03
+hash: adf3c5f9

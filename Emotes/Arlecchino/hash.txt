@@ -1,2 +1,2 @@
-emote: Shh=PP32-ICON
+emote: Shh_XS=PP32-ICON
 hash: 5175cf64

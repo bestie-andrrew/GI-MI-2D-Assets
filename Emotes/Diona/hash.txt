@@ -1,0 +1,14 @@
+emote: Bored=PP03-08
+hash: 9e486bd6
+
+emote: Fearsome=PP03-09
+hash: 7f8d4b8c
+
+emote: Irritable=PP03-07
+hash: db029b29
+
+emote: Not_Bad=PP20-11
+hash: 08a8c8a5
+
+emote: Proud=PP03-10
+hash: 349fb707
