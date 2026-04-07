@@ -1,0 +1,26 @@
+emote: Crystals_Please=PP16-06
+hash: 1c859604
+
+emote: Hi_XS=PP07-ICON
+hash: c082970a
+
+emote: Hi=PP07-05
+hash: ee461c4c
+
+emote: Satisfaction=PP16-07
+hash: 1cc55778
+
+emote: Shock=PP07-06
+hash: 77fc14aa
+
+emote: Small_Smile=PP07-08
+hash: d196ce32
+
+emote: Sweating=PP07-07
+hash: 3fba9848
+
+emote: You_Can_Do_It_XS=PP16-ICON
+hash: 4dbb833f
+
+emote: You_Can_Do_It=PP16-05
+hash: ad04b2d7

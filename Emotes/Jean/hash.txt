@@ -1,0 +1,17 @@
+emote: Angry=PP07-14
+hash: 90bf9694
+
+emote: Approval=PP13-04
+hash: 7e54fabe
+
+emote: Oh=PP01-08
+hash: e27a4d0c
+
+emote: Pensive=PP07-16
+hash: 245b1a90
+
+emote: Praise=PP07-13
+hash: 9ca41fc9
+
+emote: Wry_Smile=PP07-15
+hash: bc0b407b
