@@ -1,0 +1,12 @@
+emote: Cry=PP11-06
+hash: b5dbfcdb
+
+emote: Grin=PP11-05
+hash: 14e3508e
+
+emote: Happy=PP11-07
+hash: 4c41eeaf
+
+emote: Starry_Eyed=PP11-08
+hash: ef4d7fa7
+

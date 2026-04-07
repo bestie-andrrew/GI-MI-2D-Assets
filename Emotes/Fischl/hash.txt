@@ -1,0 +1,11 @@
+emote: Hahaha=PP04-16
+hash: aec36708
+
+emote: Not_At_All=PP04-15
+hash: 776b9040
+
+emote: On_Vacation=PP16-16
+hash: d861f2c7
+
+emote: Stay_Calm=PP16-15
+hash: 36bb71ac

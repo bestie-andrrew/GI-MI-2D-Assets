@@ -1,0 +1,20 @@
+emote: Good_Morning=PP04-10
+hash: ce8db6e1
+
+emote: No_Touching=PP04-06
+hash: 94c44dde
+
+emote: Not_Bad=PP04-08
+hash: 12b4467f
+
+emote: Pray_XS=PP04-ICON
+hash: f59c444e
+
+emote: Pray=PP04-09
+hash: 8c241425
+
+emote: Snoozing=PP04-05
+hash: 0946f10c
+
+emote: Upset=PP04-07
+hash: e341c339
