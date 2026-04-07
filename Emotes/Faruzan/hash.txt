@@ -1,0 +1,14 @@
+emote: Blush=PP20-06
+hash: 141a43da
+
+emote: Come_Again=PP20-08
+hash: 0dbf2fe3
+
+emote: Thinking=PP20-05
+hash: 0aea3c2a
+
+emote: Watch_Me=PP23-14
+hash: 8e85e699
+
+emote: Welcome=PP20-07
+hash: 117ec357

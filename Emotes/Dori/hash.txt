@@ -1,0 +1,11 @@
+emote: Dreaming_Of_Mora=PP17-12
+hash: 54d43ae6
+
+emote: Evil_Grin=PP17-10
+hash: 75dad9f5
+
+emote: Sales_Pitch=PP17-09
+hash: 02035c56
+
+emote: Search=PP17-11
+hash: ecd9d58c

@@ -1,0 +1,26 @@
+emote: Cheers_XS=PP06-ICON
+hash: a4875837
+
+emote: Cheers=PP06-03
+hash: 3791baa1
+
+emote: Dislike=PP11-14
+hash: 0b826820
+
+emote: Invite=PP11-12
+hash: 48ec7eb5
+
+emote: Let_Me_See=PP06-02
+hash: 958314fa
+
+emote: Praise=PP06-01
+hash: 93ff231f
+
+emote: Shy=PP25-02
+hash: 56cc12d5
+
+emote: Sneeze=PP11-13
+hash: d0b156a3
+
+emote: Time_To_Eat=PP06-04
+hash: 258d038f
