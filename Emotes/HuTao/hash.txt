@@ -1,0 +1,41 @@
+emote: Adorable_XS=PP05-ICON
+hash: 5d6dc59c
+
+emote: Adorable=PP05-04
+hash: f825cd20
+
+emote: Amazing=PP24-12
+hash: 68374850
+
+emote: Evil_Laugh=PP05-01
+hash: d6511453
+
+emote: Frighten=PP05-05
+hash: 4981707d
+
+emote: Greetings=PP10-06
+hash: df241f58
+
+emote: Ive_Got_This=PP05-06
+hash: 1397c044
+
+emote: Love=PP10-07
+hash: d723411a
+
+emote: Messed_Up=PP05-03
+hash: 8fde8563
+
+emote: Pardon_Me=PP05-08
+hash: f125ef21
+
+emote: Reciting_Poetry=PP05-02
+hash: 4e107469
+
+emote: Shocked=PP10-05
+hash: 375ac9ef
+
+emote: Thanks_Boss=PP21-09
+hash: 739acac9
+
+emote: Yawn=PP05-07
+hash: ee1faba1

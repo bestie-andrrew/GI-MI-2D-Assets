@@ -1,0 +1,2 @@
+emote: Always_Happy=PP21-12
+hash: a4527d82
