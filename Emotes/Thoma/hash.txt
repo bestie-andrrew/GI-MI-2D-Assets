@@ -1,0 +1,20 @@
+emote: Awesome=PP08-14
+hash: f13becff
+
+emote: Counting_On_You=PP08-13
+hash: 9529bb62
+
+emote: Eyes_On_Me=PP10-11
+hash: b1b3c8b9
+
+emote: Frightened=PP10-09
+hash: 378e8c1d
+
+emote: Hold_Up_High_XS=PP10-ICON
+hash: c8f59d3b
+
+emote: Hold_Up_High=PP10-10
+hash: 97bc1ab9
+
+emote: Stomachache=PP10-08
+hash: b8dab9d3

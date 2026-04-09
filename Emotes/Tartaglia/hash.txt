@@ -1,0 +1,23 @@
+emote: Darn=PP10-02
+hash: 63f35355
+
+emote: Peek=PP10-01
+hash: 48cfd870
+
+emote: Perplexed=PP10-04
+hash: 74b12d06
+
+emote: Pleased=PP03-06
+hash: 6f86e8f6
+
+emote: Shocked=PP04-13
+hash: 988a447e
+
+emote: Sigh=PP03-05
+hash: a891aa00
+
+emote: Surfing=PP10-03
+hash: 1f647038
+
+emote: The_Light_Fades=PP04-14
+hash: d81a6950
