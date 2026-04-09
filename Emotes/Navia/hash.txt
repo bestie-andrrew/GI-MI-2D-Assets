@@ -1,0 +1,5 @@
+emote: Boss-s_Orders=PP29-02
+hash: bed61cd1
+
+emote: Boss-s_Shock_XS=PP29-ICON
+hash: c7994453

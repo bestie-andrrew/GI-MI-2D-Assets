@@ -1,0 +1,8 @@
+emote: A_Toast=PP12-11
+hash: cc3ba0cd
+
+emote: Confident=PP12-12
+hash: 94a6a66a
+
+emote: Plentiful_Mora=PP21-10
+hash: 22207a7d

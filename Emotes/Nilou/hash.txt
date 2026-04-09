@@ -1,0 +1,14 @@
+emote: Awkward=PP18-05
+hash: 89bdfcb3
+
+emote: Blessings_XS=PP34-ICON
+hash: f21e8d71
+
+emote: Emerge=PP18-07
+hash: 61ecfbbf
+
+emote: Now_Thinking=PP18-06
+hash: 132fd474
+
+emote: Thats_All_Folks=PP18-08
+hash: 270594f9

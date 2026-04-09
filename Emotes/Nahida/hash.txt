@@ -1,0 +1,26 @@
+emote: Curious=PP19-01
+hash: def6553f
+
+emote: Deep_Thought=PP19-03
+hash: fc5ebfc2
+
+emote: Excited_XS=PP19-ICON
+hash: de19931a
+
+emote: Excited=PP19-05
+hash: aefcdcf8
+
+emote: Giving_Comments=PP23-10
+hash: 1c40b194
+
+emote: Great=PP19-04
+hash: 055a9573
+
+emote: Happy=PP19-02
+hash: 01c2592d
+
+emote: Lunch_Break=PP19-06
+hash: ae28712b
+
+emote: Wink_Wink=PP23-09
+hash: 10a551dd
