@@ -1,0 +1,14 @@
+emote: Little_Mage=PP25-09
+hash: 8f5899f5
+
+emote: Nice=PP07-03
+hash: c5f5b658
+
+emote: Play_With_Me=PP07-01
+hash: 68412048
+
+emote: Pleeeease=PP07-02
+hash: 60cf19e4
+
+emote: Shame=PP07-04
+hash: 2600222b

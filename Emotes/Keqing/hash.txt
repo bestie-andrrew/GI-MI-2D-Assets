@@ -1,0 +1,20 @@
+emote: Congrats=PP09-14
+hash: 970d64bc
+
+emote: Doubt=PP09-13
+hash: ade77663
+
+emote: Good_Night_XS=PP02-ICON
+hash: 36d1e1db
+
+emote: Good_Night=PP02-08
+hash: c300c4bd
+
+emote: I_Refuse=PP03-14
+hash: c27d2ce4
+
+emote: Like=PP02-07
+hash: d22f88df
+
+emote: Mad=PP03-13
+hash: d50a509b

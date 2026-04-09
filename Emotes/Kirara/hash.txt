@@ -1,0 +1,14 @@
+emote: Five_Star_Rating_Purr-ease=PP24-01
+hash: 14b29f78
+
+emote: Im_Serious=PP24-04
+hash: 354823b4
+
+emote: Please_Take_It=PP24-02
+hash: f1ce8c5f
+
+emote: Right_Away_XS=PP24-ICON
+hash: 23832d02
+
+emote: Right_Away=PP24-03
+hash: fcbbdc80
