@@ -1,0 +1,26 @@
+emote: Doubt=PP02-03
+hash: 826b66e6
+
+emote: Envious=PP22-16
+hash: 8b497b76
+
+emote: Ill_Be_Good=PP02-02
+hash: cf28b489
+
+emote: Ok=PP02-01
+hash: 67effbe2
+
+emote: Recording=PP04-12
+hash: 42612a45
+
+emote: Shame=PP02-04
+hash: 1d10781f
+
+emote: Sorry_to_Disturb=PP22-15
+hash: eb4e0543
+
+emote: Victory=PP20-10
+hash: 6f4b940a
+
+emote: You_Can_Do_It=PP04-11
+hash: 0ef4452a

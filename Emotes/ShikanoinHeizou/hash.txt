@@ -1,0 +1,11 @@
+emote: Im_the_Best=PP16-01
+hash: 8740da72
+
+emote: Noticed=PP16-03
+hash: 43df6ffc
+
+emote: Punch=PP16-04
+hash: 1351df3a
+
+emote: Sigh=PP16-02
+hash: 2d322d70
