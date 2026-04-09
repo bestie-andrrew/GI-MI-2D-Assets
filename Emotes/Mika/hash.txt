@@ -1,0 +1,8 @@
+emote: Im_Here=PP22-07
+hash: 8122a0b2
+
+emote: Sigh=PP22-05
+hash: d2b9af86
+
+emote: So_Scary=PP22-06
+hash: fb58430a

@@ -1,0 +1,2 @@
+emote: Salute_XS=PP26-ICON
+hash: 02d5c541

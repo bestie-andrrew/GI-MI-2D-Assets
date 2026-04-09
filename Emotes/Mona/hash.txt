@@ -1,0 +1,20 @@
+emote: Another_Round=PP20-12
+hash: 2ef4a308
+
+emote: Dazed=PP16-13
+hash: b8655d80
+
+emote: Disappointment=PP16-14
+hash: ab89bab3
+
+emote: Hehe=PP02-06
+hash: 673ebae3
+
+emote: Love=PP02-05
+hash: 1506d14f
+
+emote: Mora=PP03-16
+hash: 2d0f553e
+
+emote: So_Hungry=PP03-15
+hash: 6ede0444
