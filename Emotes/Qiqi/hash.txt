@@ -1,0 +1,8 @@
+emote: Fallen=PP02-09
+hash: d1c05148
+
+emote: Oh=PP02-11
+hash: 9e2d9cc5
+
+emote: Secretly_Observing=PP02-10
+hash: 6c028a07

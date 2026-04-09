@@ -1,0 +1,32 @@
+emote: Disguised=PP17-16
+hash: 596d800e
+
+emote: Dreaming=PP17-15
+hash: 793e8cf9
+
+emote: Hehe=PP01-03
+hash: c21d9abf
+
+emote: Help_Me=PP17-13
+hash: 09e59cca
+
+emote: Lets_Scoot=PP17-14
+hash: eda81244
+
+emote: No_Problem=PP01-01
+hash: 8f3d5e42
+
+emote: Ship_Out_XS=PP01-ICON
+hash: c9b43c92
+
+emote: Ship_Out=PP01-02
+hash: 8f452e4b
+
+emote: Surprised=PP01-05
+hash: 3c95e7c5
+
+emote: Time_to_Eat=PP01-04
+hash: 8f1ba9f5
+
+emote: Too_Easy=PP01-06
+hash: c98857a5
