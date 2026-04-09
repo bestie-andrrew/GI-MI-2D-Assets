@@ -1,0 +1,17 @@
+emote: Friendship_Comes_First=PP24-11
+hash: b28b3418
+
+emote: Frustrated=PP25-10
+hash: 6d88acbd
+
+emote: Hahaha_XS=PP13-ICON
+hash: 4011fe18
+
+emote: Hahaha=PP13-01
+hash: 9488b927
+
+emote: Heart_Stealer_XS=PP25-ICON
+hash: dc074494
+
+emote: Thats_Funny=PP01-11
+hash: edb03ef5
