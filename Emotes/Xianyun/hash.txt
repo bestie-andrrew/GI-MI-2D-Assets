@@ -1,0 +1,2 @@
+emote: Adeptal_Greeting_XS=PP30-ICON
+hash: 9dbba690

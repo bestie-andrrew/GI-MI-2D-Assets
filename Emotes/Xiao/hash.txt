@@ -1,0 +1,35 @@
+emote: Bring_It=PP05-12
+hash: 7493f35d
+
+emote: Dazed=PP05-14
+hash: 5ea87e10
+
+emote: Disbelieving=PP12-13
+hash: 39651a32
+
+emote: Doubt=PP05-13
+hash: 4c85dbf4
+
+emote: Eat_Snow=PP12-14
+hash: c2d32796
+
+emote: Eating=PP05-09
+hash: 183df61c
+
+emote: Frown=PP05-16
+hash: 4520b5bc
+
+emote: Have_a_Seat=PP05-11
+hash: 49006703
+
+emote: Indifferent=PP05-15
+hash: 71ab2258
+
+emote: Ready_For_Battle=PP15-12
+hash: 78c24338
+
+emote: Rubs_Eyes=PP05-10
+hash: 44cfcf26
+
+emote: Show_Up=PP15-13
+hash: b2f66e69

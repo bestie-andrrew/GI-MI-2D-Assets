@@ -1,0 +1,14 @@
+emote: Collapsed=PP20-04
+hash: 21c5df11
+
+emote: Funny_Face_XS=PP20-ICON
+hash: 707ab821
+
+emote: Funny_Face=PP20-03
+hash: 47617f65
+
+emote: Greetings=PP20-01
+hash: ece17a8a
+
+emote: Zoned_Out=PP23-13
+hash: e5bdb1c6
