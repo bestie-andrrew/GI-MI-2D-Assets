@@ -1,0 +1,29 @@
+emote: Applause=PP02-16
+hash: 42f87ed3
+
+emote: Ehe=PP14-12
+hash: f7c9dbb9
+
+emote: Expectant=PP02-12
+hash: f467938f
+
+emote: Falling_Petals=PP02-15
+hash: ea3f4f65
+
+emote: I_Have_an_Idea=PP02-14
+hash: c103cd8d
+
+emote: Relaxed=PP14-11
+hash: 507ebb31
+
+emote: Shocked=PP02-13
+hash: 01537296
+
+emote: Sighing=PP14-10
+hash: b1241c05
+
+emote: Sleepy_Time=PP14-09
+hash: 33f975ce
+
+emote: Yay=PP22-08
+hash: b0def662
