@@ -1,0 +1,29 @@
+emote: Carsick=PP25-03
+hash: 04fefb99
+
+emote: Charging_Up=PP13-07
+hash: 4a93bcac
+
+emote: Dont_Hold_Back=PP24-13
+hash: c9adac25
+
+emote: Fishing=PP09-07
+hash: bebc4ae2
+
+emote: Give_That_Back=PP13-06
+hash: 08fd2954
+
+emote: Laid_Back_XS=PP09-ICON
+hash: b406e199
+
+emote: Laid_Back=PP09-06
+hash: f8899cb9
+
+emote: Low_Charge=PP13-08
+hash: 92c9e74b
+
+emote: Pray=PP09-08
+hash: 22e1cf24
+
+emote: So_Tired=PP09-05
+hash: 245954a1

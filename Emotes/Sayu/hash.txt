@@ -1,0 +1,11 @@
+emote: Alert=PP08-12
+hash: 9d07d253
+
+emote: Angry=PP08-10
+hash: 010b9361
+
+emote: Sleepy=PP08-09
+hash: e8b00481
+
+emote: Watch_This=PP08-11
+hash: c91c197d

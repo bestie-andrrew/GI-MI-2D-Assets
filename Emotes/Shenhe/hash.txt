@@ -1,0 +1,11 @@
+emote: Doubtful=PP12-01
+hash: f9a41c8c
+
+emote: Sipping_Tea=PP12-03
+hash: 11244043
+
+emote: Speechless=PP12-02
+hash: 4e7bd940
+
+emote: Stare=PP12-04
+hash: f6bbb6be
