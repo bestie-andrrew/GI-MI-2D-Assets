@@ -1,0 +1,5 @@
+emote: Please=PP01-14
+hash: 4f5764ec
+
+emote: Will_1_Mora_do=PP01-16
+hash: f3f295b9

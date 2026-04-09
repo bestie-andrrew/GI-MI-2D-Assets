@@ -1,0 +1,11 @@
+emote: Cries_in_Poverty=PP19-07
+hash: 1795ad61
+
+emote: Mozzie_Swat=PP19-10
+hash: d08956fd
+
+emote: Sleepwalk=PP19-08
+hash: 812e599d
+
+emote: You_Can_Do_This=PP23-12
+hash: b5286386

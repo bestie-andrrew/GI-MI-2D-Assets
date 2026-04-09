@@ -1,0 +1,8 @@
+emote: Panic=PP15-09
+hash: 8e2ef46e
+
+emote: Rage=PP15-10
+hash: f8b1d6af
+
+emote: Sure_Pass=PP15-11
+hash: 910721c3
