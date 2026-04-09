@@ -1,0 +1,14 @@
+emote: Drinking_Milk_Tea_XS=PP14-ICON
+hash: 8b3c5952
+
+emote: Drinking_Milk_Tea=PP14-01
+hash: dfbd5cb7
+
+emote: Now_Working=PP14-03
+hash: 3f092e43
+
+emote: Suspicious=PP14-04
+hash: 7eba8a2b
+
+emote: Thinking=PP14-02
+hash: f64474c7

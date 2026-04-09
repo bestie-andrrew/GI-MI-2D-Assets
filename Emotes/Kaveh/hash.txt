@@ -1,0 +1,20 @@
+emote: Accepting_Orders=PP23-08
+hash: 5b615c8a
+
+emote: Help_Me=PP23-06
+hash: 281a507b
+
+emote: Now_Im_Angry=PP23-05
+hash: 4b51dc40
+
+emote: Perplexed=PP24-05
+hash: db5546df
+
+emote: Time_For_Work=PP23-07
+hash: 82c4cf55
+
+emote: Working_on_It=PP24-06
+hash: 8f7aa27e
+
+emote: Youre_Invited=PP23-16
+hash: cc30016c
