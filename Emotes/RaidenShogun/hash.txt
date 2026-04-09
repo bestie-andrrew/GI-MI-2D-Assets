@@ -1,0 +1,26 @@
+emote: Light_Smile=PP09-01
+hash: 29ac3318
+
+emote: Mulling_it_Over=PP13-15
+hash: e700144d
+
+emote: My_Thanks=PP13-13
+hash: 9b7ed6e8
+
+emote: Prepare_Yourself=PP13-14
+hash: 9fce6a6a
+
+emote: Shut_In=PP13-16
+hash: 92926b9a
+
+emote: Surprise=PP09-02
+hash: b7c9ce8b
+
+emote: Tasty=PP09-03
+hash: b1bf7a0c
+
+emote: Threatening=PP09-04
+hash: eb8bf8fc
+
+emote: You_Scared=PP24-15
+hash: b1053cd1

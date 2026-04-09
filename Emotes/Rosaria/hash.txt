@@ -1,0 +1,11 @@
+emote: Clocking_Out=PP06-16
+hash: f0709f0c
+
+emote: Dislike=PP06-13
+hash: a0478e9a
+
+emote: Stare=PP06-15
+hash: adc908c9
+
+emote: Sweating=PP06-14
+hash: ca9db451

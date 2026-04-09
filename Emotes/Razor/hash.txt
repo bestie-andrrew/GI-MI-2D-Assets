@@ -1,0 +1,11 @@
+emote: Awoo=PP18-14
+hash: 45146f86
+
+emote: Hunting=PP18-15
+hash: a4544cea
+
+emote: Overwhelmed=PP18-16
+hash: b64efb88
+
+emote: Silly_Grin=PP18-13
+hash: ca2f00ae
