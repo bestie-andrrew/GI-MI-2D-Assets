@@ -1,2 +1,14 @@
+emote: Guilty=PP27-03
+hash: 44c7df4b
+
+emote: Headpat=PP27-02
+hash: 8ec99aca
+
+emote: Its_Raining=PP27-04
+hash: 6d64261d
+
+emote: Maintain_Distance=PP27-01
+hash: d1a74067
+
 emote: Refined=PP26-14
 hash: 65e64cc7

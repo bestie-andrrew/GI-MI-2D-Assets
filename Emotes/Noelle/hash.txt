@@ -1,0 +1,2 @@
+emote: Shy=PP27-14
+hash: 716afbc1

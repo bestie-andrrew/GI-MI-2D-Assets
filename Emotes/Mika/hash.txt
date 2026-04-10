@@ -1,6 +1,9 @@
 emote: Im_Here=PP22-07
 hash: 8122a0b2
 
+emote: Learned_Something=PP27-16
+hash: cc91f03e
+
 emote: Sigh=PP22-05
 hash: d2b9af86
 

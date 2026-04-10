@@ -13,6 +13,9 @@ hash: ea3f4f65
 emote: I_Have_an_Idea=PP02-14
 hash: c103cd8d
 
+emote: Recite_Poetry=PP27-12
+hash: 98aca33a
+
 emote: Relaxed=PP14-11
 hash: 507ebb31
 
@@ -24,6 +27,9 @@ hash: b1241c05
 
 emote: Sleepy_Time=PP14-09
 hash: 33f975ce
+
+emote: Unacceptable=PP27-11
+hash: c728b320
 
 emote: Yay=PP22-08
 hash: b0def662

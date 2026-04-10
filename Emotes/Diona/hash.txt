@@ -1,6 +1,9 @@
 emote: Bored=PP03-08
 hash: 9e486bd6
 
+emote: Doubting_me=PP27-15
+hash: 09aff245
+
 emote: Fearsome=PP03-09
 hash: 7f8d4b8c
 

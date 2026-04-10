@@ -7,6 +7,9 @@ hash: f825cd20
 emote: Amazing=PP24-12
 hash: 68374850
 
+emote: Eh_No=PP27-09
+hash: 337e0603
+
 emote: Evil_Laugh=PP05-01
 hash: d6511453
 
@@ -33,6 +36,9 @@ hash: 4e107469
 
 emote: Shocked=PP10-05
 hash: 375ac9ef
+
+emote: Sure_Sure_Sure=PP27-10
+hash: c7f0fda2
 
 emote: Thanks_Boss=PP21-09
 hash: 739acac9

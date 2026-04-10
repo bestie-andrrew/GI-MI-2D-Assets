@@ -1,2 +1,14 @@
+emote: Come_With_Me=PP27-07
+hash: da74a737
+
+emote: Im_Mad=PP27-08
+hash: 7089d3a5
+
 emote: Thats_Tough_XS=PP27-ICON
 hash: a732192b
+
+emote: Thats_Tough=PP27-06
+hash: db943cf3
+
+emote: Youre_Right=PP27-05
+hash: beab4ece
