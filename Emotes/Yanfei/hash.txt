@@ -1,0 +1,20 @@
+emote: Doubt=PP15-14
+hash: 9080d18c
+
+emote: I_Cant_Sleep=PP06-06
+hash: 1153c702
+
+emote: No_Problem=PP06-05
+hash: 6a924a2f
+
+emote: Objection=PP15-16
+hash: 2d3d84cd
+
+emote: Pleased=PP06-08
+hash: 0c104fac
+
+emote: Warning=PP15-15
+hash: 677ffb5b
+
+emote: What_to_Do=PP06-07
+hash: 77a45da8

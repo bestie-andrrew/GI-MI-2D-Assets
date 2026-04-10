@@ -1,0 +1,20 @@
+emote: Allow_Me=PP16-08
+hash: a1e15f7a
+
+emote: Charge=PP10-12
+hash: c8609cb7
+
+emote: High_Five=PP10-14
+hash: cb6bcc74
+
+emote: Im_Heating_Up=PP03-11
+hash: 51b263e5
+
+emote: Lets_Try=PP16-12
+hash: 70b6aae0
+
+emote: Reluctant=PP10-13
+hash: 7799721b
+
+emote: So_Annoying=PP03-12
+hash: f33b46a9

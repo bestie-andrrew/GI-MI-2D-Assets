@@ -1,0 +1,11 @@
+emote: Focused=PP14-15
+hash: 68d1c37f
+
+emote: Ive_Got_an_Idea=PP14-13
+hash: f9f612e1
+
+emote: Making_Sure=PP14-16
+hash: 0d471296
+
+emote: Too_Much_Stress=PP14-14
+hash: c85b5334
