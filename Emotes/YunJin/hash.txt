@@ -1,0 +1,14 @@
+emote: Expectant=PP12-08
+hash: fd41dd0f
+
+emote: Shock=PP12-07
+hash: d22b3324
+
+emote: Small_Smile=PP12-06
+hash: 1fc76bc8
+
+emote: WINK_XS=PP12-ICON
+hash: 400ac644
+
+emote: WINK=PP12-05
+hash: 906f1e86

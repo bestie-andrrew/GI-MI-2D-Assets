@@ -1,0 +1,14 @@
+emote: Bon_Voyage=PP21-05
+hash: f9182385
+
+emote: Double_Happiness=PP21-06
+hash: b4be56d5
+
+emote: Good_Fortune=PP21-08
+hash: 551e2667
+
+emote: Joyful_Reunion_XS=PP21-ICON
+hash: 6693660b
+
+emote: Joyful_Reunion=PP21-07
+hash: 768a193a

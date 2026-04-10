@@ -1,0 +1,23 @@
+emote: Consternation=PP12-10
+hash: 4131f72d
+
+emote: Drinks_Tea=PP13-05
+hash: e5b14c11
+
+emote: Ill_Take_Them_All=PP03-02
+hash: 7a84289c
+
+emote: Impregnable=PP12-09
+hash: 150ae61d
+
+emote: Sipping_Tea=PP03-01
+hash: 25ee4d5a
+
+emote: Spread_Hands=PP03-04
+hash: c10e47e0
+
+emote: Thinking_XS=PP03-ICON
+hash: c8f227c5
+
+emote: Thinking=PP03-03
+hash: 1351067b
