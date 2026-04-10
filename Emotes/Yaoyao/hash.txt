@@ -1,0 +1,11 @@
+emote: Good_Job=PP21-02
+hash: 9085f36e
+
+emote: Greed=PP21-04
+hash: 979bc8d4
+
+emote: Happy_Holidays=PP21-01
+hash: 1f47345e
+
+emote: Im_Done=PP21-03
+hash: 8f13bd39

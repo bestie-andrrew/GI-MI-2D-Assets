@@ -1,0 +1,14 @@
+emote: Cold_Laugh=PP15-01
+hash: 5e8a18eb
+
+emote: Great_Fortune=PP21-11
+hash: 0b32e9bf
+
+emote: Nap_Time_XS=PP15-ICON
+hash: 0c33ed32
+
+emote: Nap_Time=PP15-04
+hash: e8f76d25
+
+emote: Threatening=PP15-03
+hash: bd8092ec

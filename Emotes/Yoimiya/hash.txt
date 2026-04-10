@@ -1,0 +1,29 @@
+emote: Bad_Nara=PP24-08
+hash: 3f446441
+
+emote: Good_Nara=PP24-07
+hash: 0742ad50
+
+emote: Hey=PP08-08
+hash: 38c54f65
+
+emote: No_Problem_XS=PP08-ICON
+hash: 67eb14bc
+
+emote: No_Problem=PP08-05
+hash: 46aa6829
+
+emote: Pleased=PP08-06
+hash: 98462442
+
+emote: So_Hot=PP16-11
+hash: f60e0bce
+
+emote: Sorry=PP08-07
+hash: 6ca0df51
+
+emote: Stretch=PP16-10
+hash: b036de1d
+
+emote: Strokes_Chin=PP16-09
+hash: a333ed64
