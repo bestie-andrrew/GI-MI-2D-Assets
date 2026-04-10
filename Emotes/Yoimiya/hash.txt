@@ -1,6 +1,12 @@
 emote: Bad_Nara=PP24-08
 hash: 3f446441
 
+emote: Binging_Dramas=PP29-09
+hash: c424479a
+
+emote: Enjoy=PP29-10
+hash: 26ecd740
+
 emote: Good_Nara=PP24-07
 hash: 0742ad50
 

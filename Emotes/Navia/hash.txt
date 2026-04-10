@@ -1,8 +1,17 @@
+emote: Boss-s_Bombastic_Side_Eye=PP29-04
+hash: cb42991b
+
 emote: Boss-s_Orders=PP29-02
 hash: bed61cd1
 
 emote: Boss-s_Shock_XS=PP29-ICON
 hash: c7994453
+
+emote: Boss-s_Shock=PP29-01
+hash: 5f6f2251
+
+emote: Boss-s_Style=PP29-03
+hash: 194c8d58
 
 emote: Check_Please=PP26-15
 hash: 0b8dde90

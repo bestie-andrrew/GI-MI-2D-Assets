@@ -1,6 +1,9 @@
 emote: Light_Smile=PP09-01
 hash: 29ac3318
 
+emote: Maximum_Resolve=PP29-16
+hash: be6317a1
+
 emote: Mulling_it_Over=PP13-15
 hash: e700144d
 
@@ -21,6 +24,9 @@ hash: b1bf7a0c
 
 emote: Threatening=PP09-04
 hash: eb8bf8fc
+
+emote: Watch_it=PP29-15
+hash: ff5fb7eb
 
 emote: You_Scared=PP24-15
 hash: b1053cd1

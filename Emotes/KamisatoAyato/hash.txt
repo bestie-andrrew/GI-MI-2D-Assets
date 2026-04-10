@@ -7,6 +7,9 @@ hash: dfbd5cb7
 emote: Now_Working=PP14-03
 hash: 3f092e43
 
+emote: Speechless=PP29-13
+hash: 8c7bcb1a
+
 emote: Suspicious=PP14-04
 hash: 7eba8a2b
 

@@ -7,6 +7,9 @@ hash: 8d4444be
 emote: Dazed=PP14-07
 hash: 9af6f442
 
+emote: Feeling_Lucky_Punk=PP29-11
+hash: 81ee5b0f
+
 emote: Good_Morning=PP08-04
 hash: 4e212ecf
 
@@ -15,6 +18,9 @@ hash: a35c4507
 
 emote: Ive_Learned_A_Lot=PP20-15
 hash: 718f3079
+
+emote: Keep_it_a_Secret=PP29-12
+hash: d7f27137
 
 emote: Sipping_Tea=PP08-02
 hash: 33ce2f69

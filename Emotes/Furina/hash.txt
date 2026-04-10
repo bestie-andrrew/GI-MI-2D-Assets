@@ -1,3 +1,6 @@
+emote: Good_Take=PP29-14
+hash: 9590554a
+
 emote: Happy=PP26-13
 hash: 09d22d1c
 

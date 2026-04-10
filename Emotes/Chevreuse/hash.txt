@@ -1,0 +1,11 @@
+emote: Locked_and_Loaded=PP29=05
+hash: c8953902
+
+emote: Personal_Training=PP29-07
+hash: b152b1f2
+
+emote: Replenish_Energy=PP29-08
+hash: cc901491
+
+emote: Supervised_Special_Training=PP29-06
+hash: 3e4d7697
