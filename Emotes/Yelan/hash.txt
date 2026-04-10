@@ -1,6 +1,9 @@
 emote: Cold_Laugh=PP15-01
 hash: 5e8a18eb
 
+emote: Drinks_Tea=PP15-02
+hash: 1cd54eb0
+
 emote: Great_Fortune=PP21-11
 hash: 0b32e9bf
 

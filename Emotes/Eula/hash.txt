@@ -16,6 +16,9 @@ hash: 958314fa
 emote: Praise=PP06-01
 hash: 93ff231f
 
+emote: Refuse=PP25-01
+hash: 86452044
+
 emote: Shy=PP25-02
 hash: 56cc12d5
 

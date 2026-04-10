@@ -27,3 +27,6 @@ hash: 22e1cf24
 
 emote: So_Tired=PP09-05
 hash: 245954a1
+
+emote: Thinking=PP25-04
+hash: 9636fe9b

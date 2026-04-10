@@ -10,5 +10,11 @@ hash: 47617f65
 emote: Greetings=PP20-01
 hash: ece17a8a
 
+emote: Threatening=PP25-14
+hash: aca56ac1
+
 emote: Zoned_Out=PP23-13
 hash: e5bdb1c6
+
+emote: Zoned_Out=PP25-13
+hash: 68bc27ea

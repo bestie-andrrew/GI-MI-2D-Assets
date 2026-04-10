@@ -13,6 +13,9 @@ hash: f6256909
 emote: Lucky=PP20-16
 hash: 4e610983
 
+emote: Mimic=PP25-06
+hash: cb618ae6
+
 emote: No_Response=PP22-13
 hash: 8f92b1d9
 

@@ -1,3 +1,9 @@
+emote: Go=PP25-08
+hash: a7939432
+
+emote: Its_You=PP25-07
+hash: cf39bbfd
+
 emote: Little_Mage=PP25-09
 hash: 8f5899f5
 

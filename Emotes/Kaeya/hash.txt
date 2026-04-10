@@ -1,3 +1,6 @@
+emote: Cooling_Down=PP25-11
+hash: b0f528b7
+
 emote: Friendship_Comes_First=PP24-11
 hash: b28b3418
 
@@ -12,6 +15,9 @@ hash: 9488b927
 
 emote: Heart_Stealer_XS=PP25-ICON
 hash: dc074494
+
+emote: Heart_Stealer=PP25-12
+hash: b8911395
 
 emote: Thats_Funny=PP01-11
 hash: edb03ef5
