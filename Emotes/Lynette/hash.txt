@@ -1,0 +1,11 @@
+emote: Cheer=PP26-08
+hash: b707754f
+
+emote: Gotcha=PP26-07
+hash: aecf5235
+
+emote: Standby_Mode=PP26-06
+hash: c8737a71
+
+emote: Watch_the_fun=PP26-05
+hash: 49156ce3

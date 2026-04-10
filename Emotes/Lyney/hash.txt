@@ -1,2 +1,11 @@
+emote: Debut=PP26-02
+hash: 666ff07f
+
 emote: Salute_XS=PP26-ICON
 hash: 02d5c541
+
+emote: Salute=PP26-01
+hash: 3f6b8f44
+
+emote: Surprise=PP26-04
+hash: 028318a7

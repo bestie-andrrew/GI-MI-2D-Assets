@@ -3,3 +3,6 @@ hash: bed61cd1
 
 emote: Boss-s_Shock_XS=PP29-ICON
 hash: c7994453
+
+emote: Check_Please=PP26-15
+hash: 0b8dde90
