@@ -1,5 +1,17 @@
+emote: Cant_Sleep=PP37-07
+hash: f1944308
+
+emote: Im_Off=PP37-05
+hash: 5701e39b
+
 emote: Roger_That=PP40-13
 hash: ad4622b7
 
 emote: Sorry=PP36-07
 hash: 964c1ab4
+
+emote: Veggie_Buddies=PP37-08
+hash: 272631e3
+
+emote: You_Got_This=PP37-06
+hash: d34e1d66

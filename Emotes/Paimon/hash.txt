@@ -4,6 +4,9 @@ hash: 596d800e
 emote: Dreaming=PP17-15
 hash: 793e8cf9
 
+emote: Flowing_Thoughts=PP37-12
+hash: 6dc47601
+
 emote: Hehe=PP01-03
 hash: c21d9abf
 

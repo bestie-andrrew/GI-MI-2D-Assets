@@ -1,5 +1,20 @@
+emote: Dont_Fret=PP37-01
+hash: 44cba495
+
+emote: Holding_Back_Tears=PP37-04
+hash: a0468a9d
+
 emote: Its_You_XS=PP37-ICON
 hash: 9a8750fc
 
+emote: Its_You=PP37-03
+hash: 243c5f7e
+
+emote: Lower_Brim=PP37-02
+hash: eb7e88a4
+
 emote: Mediation=PP35-15
 hash: 03dae032
+
+emote: Pause=PP36-08
+hash: bf0be341
