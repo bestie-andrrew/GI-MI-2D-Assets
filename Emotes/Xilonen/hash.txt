@@ -1,2 +1,14 @@
+emote: Grooving=PP36-03
+hash: d3fffd1d
+
 emote: Laid_Back_XS=PP36-ICON
 hash: 20be13f4
+
+emote: Laid_Back=PP36-02
+hash: 3cc801b2
+
+emote: OPEN_UP=PP36-04
+hash: a6a4b17e
+
+emote: Yawn=PP36-01
+hash: f11488cb

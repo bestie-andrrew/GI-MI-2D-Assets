@@ -1,5 +1,8 @@
 emote: Are_You_There=PP40-09
 hash: 090c3bfa
 
+emote: Blaze=PP36-10
+hash: cf5df83f
+
 emote: Crucial_Pose=PP35-14
 hash: c0cef504

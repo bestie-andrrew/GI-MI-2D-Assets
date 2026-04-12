@@ -1,5 +1,11 @@
+emote: Angery=PP36-06
+hash: e66f7947
+
 emote: Annoyed=PP38-08
 hash: 7fd18cdb
+
+emote: Its_Nothing=PP36-05
+hash: d225cade
 
 emote: Refuse_to_Face_XS=PP38-ICON
 hash: 50c95f35

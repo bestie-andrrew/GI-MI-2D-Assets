@@ -4,6 +4,12 @@ hash: 297e5648
 emote: Ill_Protect_You=PP18-09
 hash: ca0b43c9
 
+emote: Keep_it_a_Secret=PP36-11
+hash: 705edaac
+
+emote: Pause=PP36-08
+hash: bf0be341
+
 emote: Praying=PP18-12
 hash: 1a8b4e55
 

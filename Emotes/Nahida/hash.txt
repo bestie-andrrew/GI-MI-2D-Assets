@@ -1,3 +1,6 @@
+emote: Blissful=PP36-15
+hash: 5fda296e
+
 emote: Curious=PP19-01
 hash: def6553f
 

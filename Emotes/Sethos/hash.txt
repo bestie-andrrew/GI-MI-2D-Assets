@@ -4,6 +4,9 @@ hash: b2198d3e
 emote: Learning=PP33-12
 hash: e6e9284b
 
+emote: Me=PP36-12
+hash: 5b4e01aa
+
 emote: Take_Aim=PP33-11
 hash: 31b15144
 

@@ -4,6 +4,9 @@ hash: 141a43da
 emote: Come_Again=PP20-08
 hash: 0dbf2fe3
 
+emote: Nice=PP36-14
+hash: 9ef5d2ab
+
 emote: Thinking=PP20-05
 hash: 0aea3c2a
 
