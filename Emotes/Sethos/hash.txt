@@ -1,2 +1,11 @@
 emote: Going_Out=PP33-10
 hash: b2198d3e
+
+emote: Learning=PP33-12
+hash: e6e9284b
+
+emote: Take_Aim=PP33-11
+hash: 31b15144
+
+emote: Wave=PP33-09
+hash: 1db38944

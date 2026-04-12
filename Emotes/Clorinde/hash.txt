@@ -1,2 +1,14 @@
 emote: Arrest=PP28-15
 hash: c691b473
+
+emote: Duelists_Salute=PP33-01
+hash: 3da1c79e
+
+emote: Game_Master=PP33-04
+hash: 0fb0df66
+
+emote: Lets_Move=PP33-02
+hash: 7732cfcf
+
+emote: Relaxed=PP33-03
+hash: 91fabf86
