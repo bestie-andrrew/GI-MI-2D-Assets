@@ -1,5 +1,11 @@
+emote: Crane-s_Lucky_Gift=PP30-08
+hash: 26ae9de7
+
 emote: Doubtful=PP12-01
 hash: f9a41c8c
+
+emote: For_Me=PP30-04
+hash: fdf962be
 
 emote: Sipping_Tea=PP12-03
 hash: 11244043

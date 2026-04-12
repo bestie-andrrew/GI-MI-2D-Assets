@@ -13,8 +13,14 @@ hash: f59c444e
 emote: Pray=PP04-09
 hash: 8c241425
 
+emote: Qilin-s_Auspicious_New_Year=PP30-06
+hash: f6d497f9
+
 emote: Snoozing=PP04-05
 hash: 0946f10c
+
+emote: Thanks=PP30-05
+hash: c9f4c6c1
 
 emote: Upset=PP04-07
 hash: e341c339

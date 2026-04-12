@@ -25,6 +25,9 @@ hash: 49006703
 emote: Indifferent=PP05-15
 hash: 71ab2258
 
+emote: Polite_Refusal=PP30-15
+hash: d3956fa8
+
 emote: Ready_For_Battle=PP15-12
 hash: 78c24338
 

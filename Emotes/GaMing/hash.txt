@@ -1,0 +1,11 @@
+emote: Happy_New_Year=PP30-09
+hash: c37ed67f
+
+emote: High_Five=PP30-11
+hash: 6475c241
+
+emote: Wassup=PP30-10
+hash: 3e5cdb7d
+
+emote: Wushou_Dance=PP30-12
+hash: 1030bd84

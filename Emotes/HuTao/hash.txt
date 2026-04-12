@@ -19,6 +19,9 @@ hash: 4981707d
 emote: Greetings=PP10-06
 hash: df241f58
 
+emote: Its_For_You=PP30-16
+hash: 2e74d76b
+
 emote: Ive_Got_This=PP05-06
 hash: 1397c044
 

@@ -1,2 +1,14 @@
+emote: A_Healthy_Loving_Family=PP30-07
+hash: 869b543a
+
 emote: Adeptal_Greeting_XS=PP30-ICON
 hash: 9dbba690
+
+emote: Adeptal_Greeting=PP30-01
+hash: 45236ac4
+
+emote: Confident_Bird=PP30-02
+hash: a0b5c225
+
+emote: Stay_Calm=PP30-03
+hash: 29b89403

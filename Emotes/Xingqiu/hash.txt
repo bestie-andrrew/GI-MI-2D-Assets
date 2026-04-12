@@ -1,3 +1,6 @@
+emote: Chorus_of_Well-Wishes=PP30-13
+hash: 4f777fee
+
 emote: Focused=PP14-15
 hash: 68d1c37f
 
