@@ -4,6 +4,9 @@ hash: f0709f0c
 emote: Dislike=PP06-13
 hash: a0478e9a
 
+emote: Resignation=PP31-11
+hash: 4a92a2b6
+
 emote: Stare=PP06-15
 hash: adc908c9
 

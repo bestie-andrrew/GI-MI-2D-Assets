@@ -1,5 +1,8 @@
 emote: Chilling=PP13-02
 hash: 66519473
 
+emote: Time_to_Rest=PP31-13
+hash: 629d7154
+
 emote: Well_Done=PP01-09
 hash: 5a72548e

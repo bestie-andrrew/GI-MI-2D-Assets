@@ -7,6 +7,9 @@ hash: aecf5235
 emote: Have_a_Look=PP28-12
 hash: 9a082c60
 
+emote: Small_Joys=PP31-09
+hash: 151e1843
+
 emote: Standby_Mode=PP26-06
 hash: c8737a71
 

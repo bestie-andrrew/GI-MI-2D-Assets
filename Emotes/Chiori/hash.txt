@@ -1,2 +1,14 @@
+emote: Do_Not_Disturb=PP31-01
+hash: 862f0d07
+
+emote: Know_Thyself=PP31-04
+hash: ac9d1548
+
 emote: Ooh_XS=PP31-ICON
 hash: 269fc54e
+
+emote: Ooh=PP31-02
+hash: e16c49d9
+
+emote: Play_Dumb=PP31-03
+hash: 8e02ff4d

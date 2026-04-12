@@ -7,6 +7,9 @@ hash: 8b497b76
 emote: Ill_Be_Good=PP02-02
 hash: cf28b489
 
+emote: Keep_Trying=PP31-06
+hash: 205100de
+
 emote: Ok=PP02-01
 hash: 67effbe2
 

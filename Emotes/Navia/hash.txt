@@ -1,3 +1,6 @@
+emote: Awful=PP31-07
+hash: 8c7c7873
+
 emote: Boss-s_Bombastic_Side_Eye=PP29-04
 hash: cb42991b
 

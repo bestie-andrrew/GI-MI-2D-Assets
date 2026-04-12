@@ -7,6 +7,9 @@ hash: 354823b4
 emote: Please_Take_It=PP24-02
 hash: f1ce8c5f
 
+emote: Protecc=PP31-05
+hash: 6247fd7c
+
 emote: Right_Away_XS=PP24-ICON
 hash: 23832d02
 
