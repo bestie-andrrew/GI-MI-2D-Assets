@@ -10,6 +10,9 @@ hash: c21d9abf
 emote: Help_Me=PP17-13
 hash: 09e59cca
 
+emote: Lalala=PP32-13
+hash: 5c047105
+
 emote: Lets_Scoot=PP17-14
 hash: eda81244
 

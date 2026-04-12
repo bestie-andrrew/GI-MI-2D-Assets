@@ -4,6 +4,9 @@ hash: 666ff07f
 emote: Have_a_Look=PP28-11
 hash: 00bba65e
 
+emote: Not_okay_hear_me=PP32-06
+hash: 72128f3e
+
 emote: Salute_XS=PP26-ICON
 hash: 02d5c541
 

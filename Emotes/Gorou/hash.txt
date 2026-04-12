@@ -10,3 +10,5 @@ hash: 4c41eeaf
 emote: Starry_Eyed=PP11-08
 hash: ef4d7fa7
 
+emote: Stumped=PP32-12
+hash: 3d702d78

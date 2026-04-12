@@ -1,5 +1,20 @@
+emote: No_Tears_Now=PP32-02
+hash: 0ce33659
+
+emote: Pleasure_Doing_Business=PP32-03
+hash: 4cc3f569
+
 emote: Round_of_Applause=PP28-16
 hash: 5c6549b7
 
+emote: Scorn=PP32-04
+hash: d7bbe1f7
+
 emote: Shh_XS=PP32-ICON
 hash: 5175cf64
+
+emote: Shh=PP32-01
+hash: fc917642
+
+emote: Unworthy=PP32-05
+hash: 1cff2e9c

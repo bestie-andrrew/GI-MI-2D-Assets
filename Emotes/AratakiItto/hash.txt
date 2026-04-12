@@ -13,6 +13,9 @@ hash: 8239632c
 emote: Lend_a_Hand=PP15-07
 hash: 94f8296d
 
+emote: Ohhh_yeahhh=PP32-14
+hash: 69adc682
+
 emote: Perplexed=PP11-03
 hash: 141991c4
 
@@ -24,3 +27,6 @@ hash: 4f3cc7da
 
 emote: Taunt=PP11-01
 hash: 0ff988b7
+
+emote: Toiling_Away=PP32-15
+hash: c70bf0fa

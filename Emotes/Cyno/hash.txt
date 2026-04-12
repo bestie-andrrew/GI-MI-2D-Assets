@@ -1,11 +1,17 @@
 emote: Art=PP24-14
 hash: 7fe23805
 
+emote: Awkward=PP32-10
+hash: 88e28629
+
 emote: Duel_XS=PP18-ICON
 hash: 05ec51b0
 
 emote: Duel=PP18-01
 hash: 0ef41fd1
+
+emote: Fess_Up=PP32-09
+hash: 907a4290
 
 emote: Have_at_You=PP23-15
 hash: 2a6284e5

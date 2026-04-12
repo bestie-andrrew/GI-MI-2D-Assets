@@ -21,3 +21,6 @@ hash: c4fa4fbc
 
 emote: Taps_Blackboard=PP17-01
 hash: fc2edb50
+
+emote: Waiting_for_you=PP32-11
+hash: 43404732

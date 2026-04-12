@@ -13,5 +13,8 @@ hash: 151e1843
 emote: Standby_Mode=PP26-06
 hash: c8737a71
 
+emote: Stare=PP32-08
+hash: 2604859f
+
 emote: Watch_the_fun=PP26-05
 hash: 49156ce3

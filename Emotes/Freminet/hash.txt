@@ -7,6 +7,9 @@ hash: dd0579cd
 emote: Hobby=PP26-12
 hash: c6c5ccd2
 
+emote: Holding_back_tears=PP32-07
+hash: de54b89c
+
 emote: How_Awkward=PP28-09
 hash: 2cfa331f
 
