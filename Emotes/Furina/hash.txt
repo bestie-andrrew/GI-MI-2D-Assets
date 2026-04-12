@@ -4,5 +4,17 @@ hash: 9590554a
 emote: Happy=PP26-13
 hash: 09d22d1c
 
+emote: Hilarious=PP28-03
+hash: 45ebd82d
+
 emote: How_Shocking_XS=PP28-ICON
 hash: 6c6e06de
+
+emote: How_Shocking=PP28-01
+hash: 8417e104
+
+emote: So_Boring=PP28-04
+hash: cbc6fda4
+
+emote: This_is_Hard=PP28-02
+hash: 489de1ec

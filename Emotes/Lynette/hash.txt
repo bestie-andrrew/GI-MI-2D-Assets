@@ -4,6 +4,9 @@ hash: b707754f
 emote: Gotcha=PP26-07
 hash: aecf5235
 
+emote: Have_a_Look=PP28-12
+hash: 9a082c60
+
 emote: Standby_Mode=PP26-06
 hash: c8737a71
 

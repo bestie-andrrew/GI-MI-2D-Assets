@@ -24,3 +24,6 @@ hash: 1f647038
 
 emote: The_Light_Fades=PP04-14
 hash: d81a6950
+
+emote: Too_Weak=PP28-14
+hash: faef4a3e

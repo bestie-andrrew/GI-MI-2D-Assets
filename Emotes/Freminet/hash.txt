@@ -1,8 +1,14 @@
 emote: Alert=PP26-11
 hash: 81dfd93d
 
+emote: Dont_Look=PP28-10
+hash: dd0579cd
+
 emote: Hobby=PP26-12
 hash: c6c5ccd2
+
+emote: How_Awkward=PP28-09
+hash: 2cfa331f
 
 emote: Lurking=PP26-09
 hash: f8937138

@@ -15,3 +15,6 @@ hash: 194c8d58
 
 emote: Check_Please=PP26-15
 hash: 0b8dde90
+
+emote: Roll_Out=PP28-13
+hash: 730d7d90

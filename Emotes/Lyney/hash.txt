@@ -1,6 +1,9 @@
 emote: Debut=PP26-02
 hash: 666ff07f
 
+emote: Have_a_Look=PP28-11
+hash: 00bba65e
+
 emote: Salute_XS=PP26-ICON
 hash: 02d5c541
 

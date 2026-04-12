@@ -3,3 +3,15 @@ hash: 45b14494
 
 emote: Do_Go_On=PP24-09
 hash: 4537f14e
+
+emote: Explosive_News=PP28-05
+hash: e881a75c
+
+emote: In_a_Rush=PP28-07
+hash: 700c198b
+
+emote: Professional_Squad=PP28-06
+hash: 3a52df23
+
+emote: Watch_Your_Words=PP28-08
+hash: bebcb5d5
