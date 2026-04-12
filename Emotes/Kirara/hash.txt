@@ -1,3 +1,6 @@
+emote: Confident=PP34-08
+hash: 30de3436
+
 emote: Five_Star_Rating_Purr-ease=PP24-01
 hash: 14b29f78
 
@@ -15,3 +18,6 @@ hash: 23832d02
 
 emote: Right_Away=PP24-03
 hash: fcbbdc80
+
+emote: Sweet_Dreams=PP34-07
+hash: 4a07938f

@@ -1,6 +1,9 @@
 emote: Awful=PP31-07
 hash: 8c7c7873
 
+emote: Boss_AKA_King=PP34-09
+hash: 3557133c
+
 emote: Boss-s_Bombastic_Side_Eye=PP29-04
 hash: cb42991b
 
@@ -21,3 +24,6 @@ hash: 0b8dde90
 
 emote: Roll_Out=PP28-13
 hash: 730d7d90
+
+emote: Trusty_Partner=PP34-10
+hash: a78a068c

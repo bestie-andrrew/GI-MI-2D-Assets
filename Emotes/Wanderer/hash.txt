@@ -1,6 +1,9 @@
 emote: Collapsed=PP20-04
 hash: 21c5df11
 
+emote: Default_Yes=PP34-11
+hash: d3cbdec9
+
 emote: Funny_Face_XS=PP20-ICON
 hash: 707ab821
 
@@ -9,6 +12,9 @@ hash: 47617f65
 
 emote: Greetings=PP20-01
 hash: ece17a8a
+
+emote: I_Care=PP34-12
+hash: 4d48e3c9
 
 emote: Threatening=PP25-14
 hash: aca56ac1

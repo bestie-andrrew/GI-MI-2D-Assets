@@ -1,0 +1,11 @@
+emote: Compare=PP34-02
+hash: f56c9019
+
+emote: Conclusive=PP34-04
+hash: 3315eb64
+
+emote: Noted=PP34-03
+hash: 11460d57
+
+emote: Scent=PP34-01
+hash: 262dfb46

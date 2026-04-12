@@ -4,8 +4,14 @@ hash: 89bdfcb3
 emote: Blessings_XS=PP34-ICON
 hash: f21e8d71
 
+emote: Blessings=PP34-05
+hash: 0bef2385
+
 emote: Emerge=PP18-07
 hash: 61ecfbbf
+
+emote: Farewell=PP34-06
+hash: 3e661ecc
 
 emote: Now_Thinking=PP18-06
 hash: 132fd474
