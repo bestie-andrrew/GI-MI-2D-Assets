@@ -1,2 +1,11 @@
+emote: Got_It=PP35-05
+hash: a6e5dd85
+
+emote: HOARD=PP35-06
+hash: 04c1a81a
+
 emote: Nervous=PP35-07
 hash: 2740c66b
+
+emote: Touched=PP35-08
+hash: 79d2de4d

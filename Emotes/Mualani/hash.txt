@@ -1,5 +1,14 @@
+emote: Cheersquad=PP35-03
+hash: 
+
+emote: Lemme_See=PP35-02
+hash: 4de09976
+
 emote: PANIC_XS=PP35-ICON
 hash: 1c63ca75
+
+emote: PANIC=PP35-04
+hash: e2d244fe
 
 emote: Victory=PP35-01
 hash: 990e7db8
