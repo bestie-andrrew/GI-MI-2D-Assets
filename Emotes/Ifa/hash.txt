@@ -1,2 +1,5 @@
 emote: Relaxed=PP41-08
 hash: 4a3f40c1
+
+emote: Soothing=PP40-11
+hash: 72972288

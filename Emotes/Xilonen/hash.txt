@@ -7,6 +7,9 @@ hash: 20be13f4
 emote: Laid_Back=PP36-02
 hash: 3cc801b2
 
+emote: Nope_Not_In=PP40-10
+hash: 6f23dfd7
+
 emote: OPEN_UP=PP36-04
 hash: a6a4b17e
 

@@ -1,2 +1,14 @@
+emote: All_Charged_Up=PP40-01
+hash: 9077deac
+
+emote: Faint=PP40-02
+hash: 629493bd
+
 emote: One_More_Bite_XS=PP40-ICON
 hash: 1b1f90ea
+
+emote: One_More_Bite=PP40-08
+hash: 3895152c
+
+emote: Run_Run=PP40-03
+hash: a5c50ef3

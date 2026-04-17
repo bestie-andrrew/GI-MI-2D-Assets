@@ -4,6 +4,9 @@ hash: a6e5dd85
 emote: HOARD=PP35-06
 hash: 04c1a81a
 
+emote: I_Volunteer=PP40-12
+hash: 8406afac
+
 emote: Nervous=PP35-07
 hash: 2740c66b
 

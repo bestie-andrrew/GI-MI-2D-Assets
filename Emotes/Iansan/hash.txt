@@ -1,5 +1,17 @@
 emote: Eat_Healthy=PP35-16
 hash: 426a7b3f
 
+emote: Excellent=PP40-06
+hash: e9a1825d
+
 emote: Help=PP37-11
 hash: 1cf1ee1e
+
+emote: I_Refuse=PP40-05
+hash: b45d5a92
+
+emote: Its_Time=PP40-04
+hash: 7b371beb
+
+emote: One_More_Set=PP40-07
+hash: be3909df
