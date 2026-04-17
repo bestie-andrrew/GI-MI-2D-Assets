@@ -1,6 +1,9 @@
 emote: Appraising=PP35-09
 hash: 3d4749d4
 
+emote: Blush=PP41-11
+hash: 42c8aa61
+
 emote: Disguised=PP35-10
 hash: f8bb2c34
 

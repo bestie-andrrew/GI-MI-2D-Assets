@@ -1,2 +1,14 @@
+emote: Enjoy=PP41-04
+hash: b1a3e1e6
+
+emote: Really_good=PP41-01
+hash: e197bca5
+
+emote: Thats_wrong_right=PP41-02
+hash: 9cacef56
+
 emote: The_Chef_From_Hell_XS=PP41-ICON
 hash: a946b8f7
+
+emote: The_Chef_from_Hell=PP41-03
+hash: 8001dac0

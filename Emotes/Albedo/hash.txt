@@ -7,6 +7,9 @@ hash: a575ed8d
 emote: Evil_Laugh=PP11-09
 hash: 4f00986c
 
+emote: Go_On=PP41-13
+hash: 73b8b3d4
+
 emote: Have_Some_Flowers=PP04-01
 hash: 1755a09e
 

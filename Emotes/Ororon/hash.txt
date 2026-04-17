@@ -4,6 +4,9 @@ hash: f1944308
 emote: Im_Off=PP37-05
 hash: 5701e39b
 
+emote: Open_up=PP41-09
+hash: bfc5b40d
+
 emote: Roger_That=PP40-13
 hash: ad4622b7
 

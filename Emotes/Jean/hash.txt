@@ -4,6 +4,9 @@ hash: 90bf9694
 emote: Approval=PP13-04
 hash: 7e54fabe
 
+emote: Deep_in_thought=PP41-14
+hash: 53b1e88a
+
 emote: Oh=PP01-08
 hash: e27a4d0c
 

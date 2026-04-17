@@ -1,3 +1,6 @@
+emote: Asking=PP41-10
+hash: 8061a070
+
 emote: Come_With_Me=PP27-07
 hash: da74a737
 
