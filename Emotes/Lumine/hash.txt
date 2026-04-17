@@ -1,5 +1,8 @@
 emote: Please=PP01-14
 hash: 4f5764ec
 
+emote: Surprised=PP42-11
+hash: 4a969a48
+
 emote: Will_1_Mora_do=PP01-16
 hash: f3f295b9

@@ -19,5 +19,8 @@ hash: 23832d02
 emote: Right_Away=PP24-03
 hash: fcbbdc80
 
+emote: Sad=PP42-16
+hash: 71f73665
+
 emote: Sweet_Dreams=PP34-07
 hash: 4a07938f

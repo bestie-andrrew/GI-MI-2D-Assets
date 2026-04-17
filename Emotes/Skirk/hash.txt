@@ -1,2 +1,14 @@
+emote: Farewell=PP42-03
+hash: 30dc1657
+
+emote: Observing=PP42-01
+hash: 843c6297
+
+emote: Performing=PP42-02
+hash: 5a24e079
+
 emote: Settlement_XS=PP42-ICON
 hash: fe1f9044
+
+emote: Settlement=PP42-04
+hash: c6a7fedb

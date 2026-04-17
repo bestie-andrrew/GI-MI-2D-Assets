@@ -3,3 +3,6 @@ hash: 881297ca
 
 emote: Fall_Asleep=PP01-15
 hash: 31d2c6e2
+
+emote: Surprised=PP42-12
+hash: 552b23d1

@@ -1,3 +1,6 @@
+emote: Confident=PP42-15
+hash: 54182d43
+
 emote: Im_the_Best=PP16-01
 hash: 8740da72
 

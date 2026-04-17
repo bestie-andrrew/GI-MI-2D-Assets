@@ -1,5 +1,11 @@
 emote: Absentminded=PP33-13
 hash: 28e11b56
 
+emote: Annoyed=PP42-09
+hash: 4eb82e01
+
+emote: Stare=PP42-10
+hash: 1be6d912
+
 emote: Waiting=PP33-14
 hash: aadd0aeb

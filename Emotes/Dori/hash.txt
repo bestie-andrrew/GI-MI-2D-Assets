@@ -4,6 +4,9 @@ hash: 54d43ae6
 emote: Evil_Grin=PP17-10
 hash: 75dad9f5
 
+emote: I_Swear=PP42-14
+hash: 9f3bdbd5
+
 emote: Sales_Pitch=PP17-09
 hash: 02035c56
 
