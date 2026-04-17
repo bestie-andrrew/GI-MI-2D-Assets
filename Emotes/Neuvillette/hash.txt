@@ -1,6 +1,9 @@
 emote: Gathering=PP42-13
 hash: c43d2372
 
+emote: Give_Gift=PP47-16
+hash: 2d256286
+
 emote: Guilty=PP27-03
 hash: 44c7df4b
 

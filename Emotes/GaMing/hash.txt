@@ -4,6 +4,9 @@ hash: c37ed67f
 emote: High_Five=PP30-11
 hash: 6475c241
 
+emote: Invite=PP47-14
+hash: d9f5a5f5
+
 emote: Wassup=PP30-10
 hash: 3e5cdb7d
 

@@ -10,6 +10,9 @@ hash: 7a84289c
 emote: Impregnable=PP12-09
 hash: 150ae61d
 
+emote: Put_It_on_the_Tab=PP47-13
+hash: 3010fa8d
+
 emote: Sipping_Tea=PP03-01
 hash: 25ee4d5a
 

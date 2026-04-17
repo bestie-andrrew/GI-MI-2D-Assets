@@ -1,0 +1,11 @@
+emote: Admire=PP47-10
+hash: 7d15fe77
+
+emote: Curious=PP47-09
+hash: f7c206e4
+
+emote: Happy_New_Year=PP47-12
+hash: 56ebb99d
+
+emote: May_Your_Wishes_Come_True=PP47-11
+hash: f9999b90

@@ -4,8 +4,23 @@ hash: a9d491ab
 emote: Blessings_XS=PP47-ICON
 hash: 0e3ebf2b
 
+emote: Blessings=PP47-01
+hash: d72a077b
+
 emote: Comfort=PP44-13
 hash: 1e5b7a00
 
 emote: Goodbye=PP46-09
 hash: 07531924
+
+emote: Hug=PP47-08
+hash: 4c121f5b
+
+emote: Peek=PP47-03
+hash: b9142148
+
+emote: Wake_Up=PP47-04
+hash: 9a45349a
+
+emote: Yummy=PP47-02
+hash: b316a3d6

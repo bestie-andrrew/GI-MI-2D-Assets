@@ -1,0 +1,8 @@
+emote: Concerned=PP47-06
+hash: b993c9f0
+
+emote: Conduct=PP47-07
+hash: df65bdf3
+
+emote: Light_Up=PP47-05
+hash: 99ac1dc9

@@ -1,3 +1,6 @@
+emote: Hug=PP47-08
+hash: 4c121f5b
+
 emote: Invite=PP45-11
 hash: 3715cb58
 
