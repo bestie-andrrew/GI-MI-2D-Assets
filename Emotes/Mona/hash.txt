@@ -10,6 +10,9 @@ hash: ab89bab3
 emote: Hehe=PP02-06
 hash: 673ebae3
 
+emote: Impatient=PP46-15
+hash: 0010434a
+
 emote: Love=PP02-05
 hash: 1506d14f
 

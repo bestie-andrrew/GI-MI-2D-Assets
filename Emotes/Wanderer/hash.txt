@@ -19,6 +19,9 @@ hash: 4d48e3c9
 emote: Threatening=PP25-14
 hash: aca56ac1
 
+emote: Venting=PP46-10
+hash: 4f7533b9
+
 emote: Zoned_Out=PP23-13
 hash: e5bdb1c6
 

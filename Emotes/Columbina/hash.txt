@@ -6,3 +6,6 @@ hash: 0e3ebf2b
 
 emote: Comfort=PP44-13
 hash: 1e5b7a00
+
+emote: Goodbye=PP46-09
+hash: 07531924

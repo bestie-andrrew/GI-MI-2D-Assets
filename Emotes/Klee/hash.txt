@@ -4,6 +4,9 @@ hash: a7939432
 emote: Its_You=PP25-07
 hash: cf39bbfd
 
+emote: Lets_Go=PP46-16
+hash: ff8aa7fd
+
 emote: Little_Mage=PP25-09
 hash: 8f5899f5
 

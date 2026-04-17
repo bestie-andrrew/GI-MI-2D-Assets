@@ -25,5 +25,8 @@ hash: a292dcef
 emote: Pensive=PP11-10
 hash: c36a32ea
 
+emote: Take_a_Seat=PP46-14
+hash: ad6f7158
+
 emote: What_Happened=PP04-03
 hash: ffd16e07

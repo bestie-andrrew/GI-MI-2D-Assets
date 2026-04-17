@@ -1,8 +1,20 @@
+emote: Haha=PP46-05
+hash: a9c3ef93
+
 emote: Powerless=PP45-05
 hash: fa7f4c25
 
 emote: Scream=PP45-06
 hash: 6745079c
+
+emote: Searching=PP46-06
+hash: a3eab5fd
+
+emote: Shy=PP46-08
+hash: 1e47cf4e
+
+emote: Speechless=PP46-07
+hash: 54ba3a0e
 
 emote: Thank_You=PP44-16
 hash: 376e116c

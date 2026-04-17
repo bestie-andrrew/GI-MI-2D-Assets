@@ -1,5 +1,17 @@
+emote: Frightened=PP46-03
+hash: 7e01d66f
+
+emote: Good_Night=PP46-04
+hash: 8fce7afb
+
 emote: Peek=PP45-08
 hash: a292dcef
 
 emote: Recording_XS=PP46-ICON
 hash: 4079821c
+
+emote: Recording=PP46-01
+hash: 7467a8ea
+
+emote: Silent=PP46-02
+hash: 1aa902e6

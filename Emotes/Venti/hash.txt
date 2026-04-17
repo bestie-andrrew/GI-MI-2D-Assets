@@ -19,6 +19,9 @@ hash: c103cd8d
 emote: Keep_It_a_Secret=PP43-11
 hash: b04a776e
 
+emote: Noticed=PP46-13
+hash: c8caa95c
+
 emote: Recite_Poetry=PP27-12
 hash: 98aca33a
 
