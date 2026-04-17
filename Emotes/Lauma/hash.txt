@@ -1,0 +1,2 @@
+emote: Blessings=PP43-20
+hash: f29d3a89

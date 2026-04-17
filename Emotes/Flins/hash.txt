@@ -1,2 +1,5 @@
 emote: Go_Ahead_XS=PP44-ICON
 hash: ecf9ccff
+
+emote: Thinking=PP43-22
+hash: 74723e54

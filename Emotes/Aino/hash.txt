@@ -1,0 +1,2 @@
+emote: Nice=PP43-17
+hash: 85b68747

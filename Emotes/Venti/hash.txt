@@ -16,6 +16,9 @@ hash: 8b661335
 emote: I_Have_an_Idea=PP02-14
 hash: c103cd8d
 
+emote: Keep_It_a_Secret=PP43-11
+hash: b04a776e
+
 emote: Recite_Poetry=PP27-12
 hash: 98aca33a
 

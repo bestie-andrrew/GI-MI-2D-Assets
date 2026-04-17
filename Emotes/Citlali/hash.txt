@@ -22,5 +22,8 @@ hash: 50c95f35
 emote: Refuse_to_Face=PP38-05
 hash: c3455718
 
+emote: Skeptical=PP43-12
+hash: 9531d84d
+
 emote: Wink=PP37-10
 hash: eed1c81b

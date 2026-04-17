@@ -1,2 +1,17 @@
 emote: Blank_XS=PP43-ICON
 hash: 3190535e
+
+emote: Blank=PP43-03
+hash: 2fabff91
+
+emote: Clean_Up=PP43-02
+hash: 06e95aae
+
+emote: Power_Off=PP43-18
+hash: 699b8890
+
+emote: Received=PP43-01
+hash: 46762cfc
+
+emote: Target_Locked=PP43-04
+hash: 8c3dd578

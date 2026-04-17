@@ -1,6 +1,9 @@
 emote: Frustrated=PP41-05
 hash: 2a1373d2
 
+emote: Happy_Birthday=PP43-13
+hash: 7ee74037
+
 emote: Relaxed=PP41-08
 hash: 4a3f40c1
 

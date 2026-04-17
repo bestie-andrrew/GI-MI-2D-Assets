@@ -9,3 +9,6 @@ hash: d2b9af86
 
 emote: So_Scary=PP22-06
 hash: fb58430a
+
+emote: You_Got_This=PP43-23
+hash: eda58353

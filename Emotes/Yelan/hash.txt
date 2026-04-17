@@ -1,3 +1,9 @@
+emote: Away_on_Business=PP43-05
+hash: 53fbe285
+
+emote: Chill=PP43-06
+hash: 8c054e63
+
 emote: Cold_Laugh=PP15-01
 hash: 5e8a18eb
 

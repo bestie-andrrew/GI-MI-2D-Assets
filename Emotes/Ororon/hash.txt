@@ -1,6 +1,9 @@
 emote: Cant_Sleep=PP37-07
 hash: f1944308
 
+emote: Happy_Birthday=PP43-13
+hash: 7ee74037
+
 emote: Im_Off=PP37-05
 hash: 5701e39b
 

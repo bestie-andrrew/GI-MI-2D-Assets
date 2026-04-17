@@ -1,2 +1,5 @@
 emote: Cat_Tease_XS=PP45-ICON
 hash: 17a69678
+
+emote: Expectant=PP43-21
+hash: a82c3cbd

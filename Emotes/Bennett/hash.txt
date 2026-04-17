@@ -1,2 +1,8 @@
-emotes: Confident=PP20-13
+emote: Confident=PP20-13
 hash: a1329305
+
+emote: Good_Luck=PP43-07
+hash: bd200eca
+
+emote: Touched=PP43-08
+hash: 6799779e
