@@ -1,6 +1,9 @@
 emote: Cries_in_Poverty=PP19-07
 hash: 1795ad61
 
+emote: Faint=PP45-13
+hash: 2ea73d45
+
 emote: Mozzie_Swat=PP19-10
 hash: d08956fd
 

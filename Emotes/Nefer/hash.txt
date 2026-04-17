@@ -1,8 +1,20 @@
+emote: Boring=PP45-02
+hash: 0851872e
+
 emote: Cat_Tease_XS=PP45-ICON
 hash: 17a69678
+
+emote: Cat_Tease=PP45-04
+hash: 16b76b02
 
 emote: Expectant=PP43-21
 hash: a82c3cbd
 
 emote: Gotcha=PP44-15
 hash: 7bc2c4f1
+
+emote: Interesting=PP45-01
+hash: 6feba4fe
+
+emote: Tired=PP45-03
+hash: a7b4712a

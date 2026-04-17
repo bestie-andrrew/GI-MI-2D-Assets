@@ -28,5 +28,8 @@ hash: a62d1bd6
 emote: No_Not_Funny=PP22-09
 hash: 8dc143fb
 
+emote: Satisfied=PP45-15
+hash: 333b40c2
+
 emote: Sweating=PP18-04
 hash: 5f52ede0

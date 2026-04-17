@@ -1,0 +1,2 @@
+emote: Angry=PP45-09
+hash: ca058679

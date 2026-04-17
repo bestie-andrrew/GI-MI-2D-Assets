@@ -1,2 +1,5 @@
 emote: Dont_Fret=PP48-ICON
 hash: 30a03f48
+
+emote: Support=PP45-07
+hash: e3dca600

@@ -1,6 +1,9 @@
 emote: Accepting_Orders=PP23-08
 hash: 5b615c8a
 
+emote: Guidance=PP45-16
+hash: 724f00d1
+
 emote: Help_Me=PP23-06
 hash: 281a507b
 

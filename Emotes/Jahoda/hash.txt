@@ -1,3 +1,9 @@
+emote: Powerless=PP45-05
+hash: fa7f4c25
+
+emote: Scream=PP45-06
+hash: 6745079c
+
 emote: Thank_You=PP44-16
 hash: 376e116c
 

@@ -19,6 +19,9 @@ hash: bb5f71fd
 emote: Leave_it_to_Me=PP11-11
 hash: bffdd5a6
 
+emote: Peek=PP45-08
+hash: a292dcef
+
 emote: Pensive=PP11-10
 hash: c36a32ea
 
