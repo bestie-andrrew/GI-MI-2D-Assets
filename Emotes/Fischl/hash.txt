@@ -1,3 +1,6 @@
+emote: Defeated=PP48-13
+hash: 9d5d7789
+
 emote: Hahaha=PP04-16
 hash: aec36708
 

@@ -28,6 +28,9 @@ hash: c9b43c92
 emote: Ship_Out=PP01-02
 hash: 8f452e4b
 
+emote: Sudden_Appearance=PP48-09
+hash: da44d089
+
 emote: Surprised=PP01-05
 hash: 3c95e7c5
 

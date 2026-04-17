@@ -1,2 +1,8 @@
+emote: Fine=PP48-16
+hash: cf0ae33e
+
+emote: Heres_to_You=PP48-17
+hash: 22a9c359
+
 emote: Holding_Back=PP46-11
 hash: bbcd0158

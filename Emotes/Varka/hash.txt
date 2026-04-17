@@ -1,5 +1,20 @@
-emote: Dont_Fret=PP48-ICON
+emote: Busted=PP48-11
+hash: 64fb96fb
+
+emote: Dont_Fret_XS=PP48-ICON
 hash: 30a03f48
+
+emote: Dont_Fret=PP48-03
+hash: 3c927b10
+
+emote: Greetings=PP48-08
+hash: bfb43b1e
+
+emote: Im_Outta_Here=PP48-04
+hash: 6db450b6
 
 emote: Support=PP45-07
 hash: e3dca600
+
+emote: Writing_Letter=PP48-01
+hash: 19340ba9

@@ -1,5 +1,8 @@
 emote: Fruit_Juice=PP13-03
 hash: b83daa1b
 
+emote: No_Thanks=PP48-07
+hash: ec782e11
+
 emote: Ordering=PP31-16
 hash: 306df38d

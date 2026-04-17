@@ -4,6 +4,9 @@ hash: 8122a0b2
 emote: Learned_Something=PP27-16
 hash: cc91f03e
 
+emote: Panicked=PP48-14
+hash: 8ee17520
+
 emote: Sigh=PP22-05
 hash: d2b9af86
 

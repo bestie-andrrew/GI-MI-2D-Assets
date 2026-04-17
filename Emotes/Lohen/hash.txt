@@ -1,0 +1,5 @@
+emote: Curious=PP48-06
+hash: 1511429b
+
+emote: Delivering_Letter=PP48-02
+hash: 91d437f4

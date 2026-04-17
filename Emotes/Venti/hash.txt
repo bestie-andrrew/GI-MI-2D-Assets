@@ -37,6 +37,9 @@ hash: b1241c05
 emote: Sleepy_Time=PP14-09
 hash: 33f975ce
 
+emote: Sweating=PP48-10
+hash: 67355a85
+
 emote: Unacceptable=PP27-11
 hash: c728b320
 

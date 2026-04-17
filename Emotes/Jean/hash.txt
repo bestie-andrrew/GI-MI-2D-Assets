@@ -7,6 +7,9 @@ hash: 7e54fabe
 emote: Deep_in_thought=PP41-14
 hash: 53b1e88a
 
+emote: Inviting=PP48-12
+hash: 203f216b
+
 emote: Oh=PP01-08
 hash: e27a4d0c
 
