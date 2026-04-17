@@ -13,6 +13,9 @@ hash: 0742ad50
 emote: Hey=PP08-08
 hash: 38c54f65
 
+emote: I_See=PP39-12
+hash: 9de1a96a
+
 emote: No_Problem_XS=PP08-ICON
 hash: 67eb14bc
 

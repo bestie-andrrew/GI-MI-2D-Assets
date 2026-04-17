@@ -1,2 +1,17 @@
+emote: Come_Here=PP39-03
+hash: cb96ef0d
+
 emote: Happy_XS=PP39-ICON
 hash: 97dd0d47
+
+emote: Happy=PP39-01
+hash: edc594cd
+
+emote: Helpless=PP39-06
+hash: d676b806
+
+emote: Sad=PP39-02
+hash: 93c44494
+
+emote: Surprised=PP39-04
+hash: d19325c3

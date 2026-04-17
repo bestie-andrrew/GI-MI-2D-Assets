@@ -1,3 +1,6 @@
+emote: A_Perfect_Answer=PP39-14
+hash: 192a75d6
+
 emote: Awesome=PP08-14
 hash: f13becff
 

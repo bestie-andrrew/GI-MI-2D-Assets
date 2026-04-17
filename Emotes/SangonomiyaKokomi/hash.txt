@@ -30,3 +30,6 @@ hash: 245954a1
 
 emote: Thinking=PP25-04
 hash: 9636fe9b
+
+emote: Whispering=PP39-11
+hash: ee850101

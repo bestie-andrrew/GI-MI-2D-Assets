@@ -10,5 +10,8 @@ hash: 45236ac4
 emote: Confident_Bird=PP30-02
 hash: a0b5c225
 
+emote: Locating=PP39-15
+hash: c9d79ad6
+
 emote: Stay_Calm=PP30-03
 hash: 29b89403

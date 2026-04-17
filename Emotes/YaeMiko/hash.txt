@@ -7,6 +7,12 @@ hash: ccce814f
 emote: Obfuscating=PP13-10
 hash: 910170fb
 
+emote: Satisfied=PP39-07
+hash: fcb78462
+
+emote: Threatening=PP39-09
+hash: 9d0b8d7f
+
 emote: Work_in_Progress=PP13-11
 hash: b6b40338
 

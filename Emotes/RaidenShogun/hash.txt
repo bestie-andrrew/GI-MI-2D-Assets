@@ -1,3 +1,9 @@
+emote: Drinks_Tea=PP39-08
+hash: 07ea8592
+
+emote: Eureka=PP39-10
+hash: f71ce06a
+
 emote: Light_Smile=PP09-01
 hash: 29ac3318
 

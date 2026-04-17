@@ -4,6 +4,9 @@ hash: 9d07d253
 emote: Angry=PP08-10
 hash: 010b9361
 
+emote: Busted=PP39-13
+hash: 29f07fbf
+
 emote: Sleepy=PP08-09
 hash: e8b00481
 
