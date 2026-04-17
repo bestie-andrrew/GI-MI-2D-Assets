@@ -1,2 +1,14 @@
+emote: Angry=PP44-10
+hash: d3f404bd
+
+emote: Cover_Up=PP44-11
+hash: 6c2a7d04
+
 emote: Nice=PP43-17
 hash: 85b68747
+
+emote: Repair=PP44-12
+hash: e6091cf6
+
+emote: Sneaky_Snacking=PP44-09
+hash: 8662e0c0

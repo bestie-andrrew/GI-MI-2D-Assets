@@ -1,2 +1,14 @@
+emote: Awkward=PP44-02
+hash: ed765036
+
 emote: Blessings=PP43-20
 hash: f29d3a89
+
+emote: Meeting=PP44-03
+hash: d7098767
+
+emote: Praise=PP44-01
+hash: f743ddfa
+
+emote: Protect=PP44-04
+hash: 62597317

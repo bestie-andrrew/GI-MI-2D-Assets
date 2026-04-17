@@ -1,5 +1,17 @@
+emote: Begone=PP44-07
+hash: 87615f83
+
+emote: Bow=PP44-05
+hash: 998c214c
+
 emote: Go_Ahead_XS=PP44-ICON
 hash: ecf9ccff
+
+emote: Go_Ahead=PP44-06
+hash: a36a5c52
+
+emote: Illuminate=PP44-08
+hash: cea756cb
 
 emote: Thinking=PP43-22
 hash: 74723e54

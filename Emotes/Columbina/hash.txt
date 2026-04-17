@@ -1,2 +1,5 @@
 emote: Blessings_XS=PP47-ICON
 hash: 0e3ebf2b
+
+emote: Comfort=PP44-13
+hash: 1e5b7a00
