@@ -4,5 +4,17 @@ hash: 090c3bfa
 emote: Blaze=PP36-10
 hash: cf5df83f
 
+emote: Cheers=PP38-04
+hash: ae45a781
+
+emote: Come_Quick=PP38-01
+hash: e08a150c
+
 emote: Crucial_Pose=PP35-14
 hash: c0cef504
+
+emote: Full_Throttle=PP38-02
+hash: f6150df6
+
+emote: Head_to_Head=PP38-03
+hash: f204f0c8

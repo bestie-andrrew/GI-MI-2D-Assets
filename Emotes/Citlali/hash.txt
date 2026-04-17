@@ -4,6 +4,12 @@ hash: e66f7947
 emote: Annoyed=PP38-08
 hash: 7fd18cdb
 
+emote: Bleary-Eyed=PP38-06
+hash: 8592e271
+
+emote: Blush=PP38-07
+hash: 16a84a20
+
 emote: Coming=PP37-09
 hash: 784d60d3
 
@@ -12,6 +18,9 @@ hash: d225cade
 
 emote: Refuse_to_Face_XS=PP38-ICON
 hash: 50c95f35
+
+emote: Refuse_to_Face=PP38-05
+hash: c3455718
 
 emote: Wink=PP37-10
 hash: eed1c81b

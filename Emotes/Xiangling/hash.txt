@@ -1,5 +1,11 @@
 emote: Ehehe=PP09-16
 hash: eace3c83
 
+emote: Fortunes_Favor=PP38-14
+hash: ff38fd4d
+
 emote: Starry_Eyed=PP09-15
 hash: c49ff9c2
+
+emote: Wassup=PP38-13
+hash: 95b27ef6

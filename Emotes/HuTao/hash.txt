@@ -28,11 +28,17 @@ hash: 1397c044
 emote: Love=PP10-07
 hash: d723411a
 
+emote: Lucky_Streak=PP38-15
+hash: 4ba00a1f
+
 emote: Messed_Up=PP05-03
 hash: 8fde8563
 
 emote: Pardon_Me=PP05-08
 hash: f125ef21
+
+emote: Promise=PP38-16
+hash: 19db5218
 
 emote: Reciting_Poetry=PP05-02
 hash: 4e107469

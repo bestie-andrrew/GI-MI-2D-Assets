@@ -1,0 +1,8 @@
+emote: Greetings=PP38-09
+hash: 331513b8
+
+emote: Time_to_Relax=PP38-10
+hash: 0f1c10f9
+
+emote: Yummy=PP38-11
+hash: 20b9a945
