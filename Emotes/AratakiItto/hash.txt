@@ -4,6 +4,9 @@ hash: 3810fdef
 emote: Challenge=PP15-06
 hash: 4cd5cc1e
 
+emote: Defeat=PP49-08
+hash: 8189e865
+
 emote: Eating_Sweets=PP11-04
 hash: fe3b03cd
 

@@ -7,6 +7,9 @@ hash: 17a69678
 emote: Cat_Tease=PP45-04
 hash: 16b76b02
 
+emote: Deal=PP49-10
+hash: 849ec737
+
 emote: Expectant=PP43-21
 hash: a82c3cbd
 

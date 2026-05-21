@@ -12,3 +12,6 @@ hash: 02035c56
 
 emote: Search=PP17-11
 hash: ecd9d58c
+
+emote: Thats_A_Loss=PP49-15
+hash: 54ce4207

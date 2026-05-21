@@ -4,6 +4,9 @@ hash: d3f404bd
 emote: Cover_Up=PP44-11
 hash: 6c2a7d04
 
+emote: Dazed_and_Confused=PP49-07
+hash: f13b501d
+
 emote: Nice=PP43-17
 hash: 85b68747
 

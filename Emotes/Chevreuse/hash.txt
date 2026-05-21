@@ -1,6 +1,9 @@
 emote: Dont_Do_That_Again=PP31-08
 hash: 942ef9b9
 
+emote: Got_You=PP49-13
+hash: 45d11990
+
 emote: Locked_and_Loaded=PP29=05
 hash: c8953902
 

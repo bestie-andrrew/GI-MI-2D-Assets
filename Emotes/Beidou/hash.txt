@@ -1,5 +1,8 @@
 emote: Bye=PP08-16
 hash: 64c6ea65
 
+emote: Calm=PP49-12
+hash: 442e3a1d
+
 emote: Hearty_Laughter=PP08-15
 hash: 4b760b7c

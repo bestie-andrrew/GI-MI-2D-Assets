@@ -1,0 +1,14 @@
+emote: Let_Me_See=PP49-02
+hash: 7dfac608
+
+emote: Observe=PP49-01
+hash: f93128e2
+
+emote: Showing_Off=PP49-03
+hash: 56c52d04
+
+emote: Showing_Off_XS=PP49-ICON
+hash: e2419185
+
+emote: TLDR=PP49-04
+hash: ebc64178

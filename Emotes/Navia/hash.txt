@@ -19,6 +19,9 @@ hash: 5f6f2251
 emote: Boss-s_Style=PP29-03
 hash: 194c8d58
 
+emote: Buy_This=PP49-09
+hash: 51320bcf
+
 emote: Check_Please=PP26-15
 hash: 0b8dde90
 

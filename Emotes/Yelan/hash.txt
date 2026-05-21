@@ -19,5 +19,8 @@ hash: 0c33ed32
 emote: Nap_Time=PP15-04
 hash: e8f76d25
 
+emote: Shh=PP49-14
+hash: 0e7d4728
+
 emote: Threatening=PP15-03
 hash: bd8092ec

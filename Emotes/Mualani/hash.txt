@@ -16,5 +16,8 @@ hash: 1c63ca75
 emote: PANIC=PP35-04
 hash: e2d244fe
 
+emote: Question=PP49-06
+hash: b6593ed2
+
 emote: Victory=PP35-01
 hash: 990e7db8
