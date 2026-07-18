@@ -15,3 +15,6 @@ hash: 8e85e699
 
 emote: Welcome=PP20-07
 hash: 117ec357
+
+emote: You_Get_Me=PP50-16
+hash: 861cd40b

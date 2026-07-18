@@ -1,5 +1,17 @@
+emote: Blowing_Bubbles=PP50-09
+hash: 933233b6
+
 emote: Curious=PP48-06
 hash: 1511429b
 
 emote: Delivering_Letter=PP48-02
 hash: 91d437f4
+
+emote: Excited=PP50-11
+hash: 2aed827a
+
+emote: Side_Eye=PP50-08
+hash: deed3bba
+
+emote: Threatening=PP50-10
+hash: 4fa25853

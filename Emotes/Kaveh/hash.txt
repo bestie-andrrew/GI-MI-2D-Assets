@@ -16,6 +16,9 @@ hash: db5546df
 emote: Shooketh=PP36-13
 hash: 5309c3aa
 
+emote: Speed_Up=PP50-18
+hash: 913f1059
+
 emote: Time_For_Work=PP23-07
 hash: 82c4cf55
 

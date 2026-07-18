@@ -1,6 +1,9 @@
 emote: Clock_Out=PP21-14
 hash: 3e559c2d
 
+emote: Got_it=PP50-17
+hash: e16787f9
+
 emote: So_Noisy=PP21-15
 hash: e0c7ab5c
 
