@@ -1,0 +1,11 @@
+emote: Disdain=PP50-15
+hash: 09d4654c
+
+emote: Hiding=PP50-14
+hash: ac240213
+
+emote: Listen_to_Me=PP50-12
+hash: 24795c51
+
+emote: Pouting=PP50-13
+hash: eac03b63
