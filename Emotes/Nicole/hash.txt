@@ -1,8 +1,26 @@
 emote: Fine=PP48-16
 hash: cf0ae33e
 
+emote: Guidance=PP50-05
+hash: ba0dcf5d
+
 emote: Heres_to_You=PP48-17
 hash: 22a9c359
 
 emote: Holding_Back=PP46-11
 hash: bbcd0158
+
+emote: Satisfied=PP50-ICON
+hash: 6bf0b28e
+
+emote: Satisfied=PP50-06
+hash: db2a3e9a
+
+emote: Thinking=PP50-04
+hash: 3c56e0e4
+
+emote: Uh-Oh=PP50-07
+hash: e6b1f595
+
+emote: You_Get_Me=PP50-16
+hash: 861cd40b

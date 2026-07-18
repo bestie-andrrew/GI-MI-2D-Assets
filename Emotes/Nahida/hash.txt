@@ -25,5 +25,8 @@ hash: 01c2592d
 emote: Lunch_Break=PP19-06
 hash: ae28712b
 
+emote: Sick=PP50-19
+hash: 79f33f6b
+
 emote: Wink_Wink=PP23-09
 hash: 10a551dd
